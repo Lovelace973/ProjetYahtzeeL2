@@ -1,4 +1,5 @@
-Fonctionnalités :
+
+Fonctionnalités et répartition du travail :
 	Lijuan :
 		- Lancer une partie de Yahtzee
 		- Consulter le résultat des dernières parties
